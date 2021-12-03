@@ -1,0 +1,10 @@
+#Option1:
+while not coder.oh_one?
+    coder.practice
+end
+#Option2:
+until coder.oh_one?
+    coder.practice
+end
+#Option3:
+coder.practice until coder.oh_one?
